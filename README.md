@@ -32,3 +32,19 @@ ETL / 数据重塑： 使用 pd.melt 将宽格式犯罪数据集（300+ 个月�
 数据可视化： 使用 Matplotlib/Seaborn 创建三图面板仪表板，分别展示：(1) 悉尼全年犯罪季节性趋势，(2) 前十大犯罪类别分布，(3) 基于邮政编码地理分区的悉尼内城与外城犯罪对比。
 
 趋势分析： 调查 2020–2025 年犯罪增长情况：发现新南威尔士州整体犯罪下降 34%，同时标记出特定上升趋势（如 Hurstville 的交通违规类犯罪上升 36%、Belmont 的妨碍司法类犯罪上升），为精准警务决策提供数据支撑。
+
+# Leaf Disease Classification Project  树叶病变分类项目
+
+•	Dataset URL: https://data.mendeley.com/datasets/tywbtsjrjv/1
+
+•	Project content: 
+The primary task is to develop a neural network-based leaf disease classification system that can accurately identify
+and classify different types of leaf diseases. The system should be able to handle variations in appearance due to different
+lighting conditions, leaf orientations, and other environmental factors. Additionally, the model should be optimized for speed
+to enable real-time deployment in agricultural settings.
+• 主要任务是开发一个基于神经网络的叶片病害分类系统，该系统能够准确识别和分类不同类型的叶片病害。系统应能够应对由于光照条件、叶片朝向以及其他环境因素变化所导致的外观差异。
+• 此外，该模型还应针对速度进行优化，以便能够在农业场景中实现实时部署
+
+• Project Files：
+See 
+
