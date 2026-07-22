@@ -1,4 +1,4 @@
-# Data Cleaning Project
+# Crime Data Cleaning Project 犯罪数据清洗
 Use the public datasets and crime research provided by the NSW Government to clean, analyze, and visualize crime data and police station CSV files for the community.
 
 利用新南威尔士州政府提供的公共数据集及犯罪研究资料，对犯罪数据与警察局 CSV 文件进行清洗、分析与可视化，为社区提供数据支持。
@@ -39,12 +39,16 @@ ETL / 数据重塑： 使用 pd.melt 将宽格式犯罪数据集（300+ 个月�
 
 •	Project content: 
 The primary task is to develop a neural network-based leaf disease classification system that can accurately identify
+
 and classify different types of leaf diseases. The system should be able to handle variations in appearance due to different
+
 lighting conditions, leaf orientations, and other environmental factors. Additionally, the model should be optimized for speed
+
 to enable real-time deployment in agricultural settings.
 • 主要任务是开发一个基于神经网络的叶片病害分类系统，该系统能够准确识别和分类不同类型的叶片病害。系统应能够应对由于光照条件、叶片朝向以及其他环境因素变化所导致的外观差异。
+
 • 此外，该模型还应针对速度进行优化，以便能够在农业场景中实现实时部署
 
 • Project Files：
-See 
+See nine_layer_cnn.ipynb
 
